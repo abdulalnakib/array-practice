@@ -1,3 +1,4 @@
+// Program to see the grades of the students
 var tom = 66;
 var jane = 95;
 var peter = 56;
